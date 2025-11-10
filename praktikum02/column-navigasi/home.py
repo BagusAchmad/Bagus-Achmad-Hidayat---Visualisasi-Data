@@ -15,11 +15,3 @@ st.markdown("""
 # home page
 st.title("# Main page ")
 st.write("This is Main Page")
-
-# Second Page
-st.title("# Page 2 ")
-st.write("You have navigated to page one")
-
-# Third Page
-st.title("# Page 3 ")
-st.write("You have navigated to page one")
